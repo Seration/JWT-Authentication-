@@ -1,0 +1,11 @@
+C:\Users\Sercan\Desktop\JWTcore\bin\Debug\netcoreapp2.0\webapplication.deps.json
+C:\Users\Sercan\Desktop\JWTcore\bin\Debug\netcoreapp2.0\webapplication.runtimeconfig.json
+C:\Users\Sercan\Desktop\JWTcore\bin\Debug\netcoreapp2.0\webapplication.runtimeconfig.dev.json
+C:\Users\Sercan\Desktop\JWTcore\bin\Debug\netcoreapp2.0\webapplication.dll
+C:\Users\Sercan\Desktop\JWTcore\bin\Debug\netcoreapp2.0\webapplication.pdb
+C:\Users\Sercan\Desktop\JWTcore\obj\Debug\netcoreapp2.0\webapplication.csprojAssemblyReference.cache
+C:\Users\Sercan\Desktop\JWTcore\obj\Debug\netcoreapp2.0\webapplication.csproj.CoreCompileInputs.cache
+C:\Users\Sercan\Desktop\JWTcore\obj\Debug\netcoreapp2.0\webapplication.AssemblyInfoInputs.cache
+C:\Users\Sercan\Desktop\JWTcore\obj\Debug\netcoreapp2.0\webapplication.AssemblyInfo.cs
+C:\Users\Sercan\Desktop\JWTcore\obj\Debug\netcoreapp2.0\webapplication.dll
+C:\Users\Sercan\Desktop\JWTcore\obj\Debug\netcoreapp2.0\webapplication.pdb
